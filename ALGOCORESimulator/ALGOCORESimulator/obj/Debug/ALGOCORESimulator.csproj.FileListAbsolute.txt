@@ -1,0 +1,10 @@
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\bin\Debug\ALGOCORESimulator.exe.config
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\bin\Debug\ALGOCORESimulator.exe
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\bin\Debug\ALGOCORESimulator.pdb
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\obj\Debug\ALGOCORESimulator.csproj.AssemblyReference.cache
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\obj\Debug\ALGOCORESimulator.csproj.CoreCompileInputs.cache
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\obj\Debug\ALGOCORESimulator.exe
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\ALGOCORESimulator\ALGOCORESimulator\obj\Debug\ALGOCORESimulator.pdb
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\bin\Debug\ALGOCORESimulator.exe.config
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\bin\Debug\ALGOCORESimulator.exe
+C:\Data\Erez\Private\Ventures\IMeasure\Projects\bin\Debug\ALGOCORESimulator.pdb
